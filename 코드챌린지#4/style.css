@@ -1,0 +1,18 @@
+body {
+  background-color: red;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: auto;
+}
+
+.card-box {
+  background-color: green;
+  width: 360px;
+  height: 180px;
+
+  text-align: center;
+  color: antiquewhite;
+}
